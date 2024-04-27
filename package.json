@@ -1,5 +1,5 @@
 {
-  "name": "portfolioreact",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,14 +11,13 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://63nitin.github.io/portfolio",
+  "homepage": "https://63nitin.github.io/chai-aur-react",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "animate.css": "^4.1.1",
-    "gsap-trial": "^3.12.5",
     "loaders.css": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
