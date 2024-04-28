@@ -11,7 +11,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://63nitin.github.io/chai-aur-react",
+  "homepage": "https://63nitin.github.io/Portfolio1",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
